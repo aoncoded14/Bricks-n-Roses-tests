@@ -1,2 +1,2 @@
 # Bricks-n-Roses-tests
-smart contract fullstack project
+Algorand smart contract fullstack project
